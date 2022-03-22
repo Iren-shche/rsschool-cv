@@ -20,6 +20,22 @@ h1 {
      color: white;
      padding: 10px 0px 10px 20px;
 }
+.section_2 {
+    background-color: rgba(233, 180, 7);
+    color: rgb(33, 33, 33);
+    padding: 10px 0px 10px 20px;
+}
+.section_2 h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: rgb(46, 46, 46);
+    text-align: left;
+    border-bottom: 2px solid rgb(46, 46, 46);
+    margin-bottom: 20px;
+}
+.section_2 div {
+    padding: 10px 20px 10px 0px;
+}
 h2 {
     font-size: 20px;
     text-transform: uppercase;
